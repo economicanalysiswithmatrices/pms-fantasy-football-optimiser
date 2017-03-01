@@ -1,0 +1,15 @@
+Project:
+An app that creates the best Fantasy Football team given Premier League data, satisfying the constraints imposed by Fantasy Football League's website. 
+
+Report:
+- very detailed and well written
+
+
+Code:
+- This is a great piece of code 
+- New things learned: GUI, scraping data from websites, JSON format and parsing, playing sound with Matlab
+- works like a charm, great job!
+- professional use of Github, full use of the functionality 
+
+
+Mark: 100
